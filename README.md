@@ -1,8 +1,8 @@
 # Data Investigation
 ## Simple investigation of data set from Udacity's Data Analyst Nanodegree Program
 
-This code is an investigation of medical appointment data that recorded whether patients showed up to their medical appointments or not.
-The data is analyzed in order to determine if any factors recorded in this data can be linked to patients not arriving to their medical apointments.
+This code is an investigation of medical appointment data that recorded whether patients showed up to their medical appointments.
+The data is analyzed in order to determine if any factors recorded in this data can be linked to changes in the proportion of patients who do not arrive to their medical appointments.
 
 Initially, data was inspected for duplicates and missing data. Then columns that did not appear useful for this analysis were dropped, and remaining
 columns were renamed as appropriate. Data was then cleaned, which included removing any invalid data (e.g., age less than zero), and 
