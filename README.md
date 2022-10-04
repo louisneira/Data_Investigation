@@ -1,5 +1,5 @@
 # Data Investigation
-## Simple investigation of data set from Udacity's Data Analyst Nanodegree Program
+## Simple investigation of medical appointment data
 
 This code is an investigation of medical appointment data that recorded whether patients showed up to their medical appointments.
 The data is analyzed in order to determine if any factors recorded in this data can be linked to changes in the proportion of patients who do not arrive to their medical appointments.
